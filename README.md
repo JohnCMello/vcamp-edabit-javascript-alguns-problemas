@@ -8,7 +8,6 @@ Este repositório tem como objetivo apresentar algumas soluções para problemas
 
 > Desafios
 
-- - - -
 ## Nível Médio
 - - - -
 
@@ -41,7 +40,6 @@ Este repositório tem como objetivo apresentar algumas soluções para problemas
 
 ![Which Generation Are You?](prints/which-generation-are-you.png)
 
-- - - -
 ## Nível Dificil
 - - - -
 
